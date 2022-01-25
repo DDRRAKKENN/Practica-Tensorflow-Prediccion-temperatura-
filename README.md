@@ -32,7 +32,7 @@ Las mismas tambien se pueden buscar y descargar desde [pypi.org](https://pypi.or
 ![Conexiones](./img/conexiones.jpg)
 
 ### Proceso general
-![Proceso general](./proceso%20general.jpg)
+![Proceso general](./img/proceso%20general.jpg)
 
 # NOTA IMPORTANTE
 El siguiente ejercicio fue realizado en base a un video de youtube del canal "Ringa Tech"
